@@ -8,6 +8,8 @@
 
 [ipython notebook](https://github.com/jamesdellinger/machine_learning_nanodegree_finding_donors_project/blob/master/finding_donors.ipynb)
 
+[pdf version](https://github.com/jamesdellinger/machine_learning_nanodegree_finding_donors_project/blob/master/finding_donors.pdf)
+
 [html version](https://github.com/jamesdellinger/machine_learning_nanodegree_finding_donors_project/blob/master/report.html)
 
 ## Project Overview
