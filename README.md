@@ -18,9 +18,9 @@
 * For this project, my classifier's precision will be more important than its recall or accuracy, so I use as a performance metric the [F-beta score](https://en.wikipedia.org/wiki/F1_score), which is built on the harmonic mean of precision and recall.
 * Establishing a benchmark for a solution to a problem: I use the F-score of a classifier that naively predicts every individual earns more than $50,000.
 * Understanding exactly when and where a particular supervised learning algorithm should be used and when one should be avoided, based on each model's strengths and weaknesses.
-* How to effectively tune an algorithm's hyperparameters.
+* How to effectively tune various algorithms' hyperparameters.
 * Using K-Fold cross-validation to compare the performance of various models.
-* Extracting feature importances from a trained model and using other feature selection techniques such as SelectKBest.
+* Extracting feature importances from a trained model, and using other feature selection techniques such as SelectKBest.
 * Investigating whether a candidate solution model is adequate for the problem.
 
 ### My completed project:
